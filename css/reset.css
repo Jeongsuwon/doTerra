@@ -1,25 +1,24 @@
 @charset "utf-8";
-
 *,
 *::before,
-*::after{
-margin:0;
-padding:0;
+*::after {
+    margin: 0;
+    padding: 0
 }
 
-a, a:link{
-    text-align: none;
-    color:inherit;
+a, a:link {
+    text-decoration: none;
+    color: inherit;
 }
 
-ul, ol{
+ul, ol {
     list-style-type: none;
 }
 
-form, fieldset{
+form, fieldset {
     border: none;
 }
 
-.d-none{
-    display:none;
+.d-none {
+    display: none;
 }
